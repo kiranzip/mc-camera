@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "zip.kiran.snapshot.client.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"GameRendererMixin",
+		"InGameHudMixin",
+		"MinecraftClientMixin",
+		"MouseMixin",
+		"PostEffectProcessorAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

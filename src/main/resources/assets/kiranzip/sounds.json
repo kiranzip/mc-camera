@@ -1,0 +1,32 @@
+{
+  "camera_shutter": {
+    "category": "player",
+    "subtitle": "subtitles.kiranzip.camera_shutter",
+    "sounds": [
+      {
+        "name": "kiranzip:camera_shutter",
+        "stream": false
+      }
+    ]
+  },
+  "camera_eject": {
+    "category": "player",
+    "subtitle": "subtitles.kiranzip.camera_eject",
+    "sounds": [
+      {
+        "name": "kiranzip:camera_eject",
+        "stream": false
+      }
+    ]
+  },
+  "camera_dial": {
+    "category": "player",
+    "subtitle": "subtitles.kiranzip.camera_dial",
+    "sounds": [
+      {
+        "name": "kiranzip:camera_dial",
+        "stream": false
+      }
+    ]
+  }
+}

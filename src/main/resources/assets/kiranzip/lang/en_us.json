@@ -1,0 +1,22 @@
+{
+  "item.kiranzip.camera": "Camera",
+  "item.kiranzip.camera.hint": "Right click to raise the viewfinder",
+  "item.kiranzip.photograph": "Photograph",
+  "item.kiranzip.photograph.by": "Photograph by %s",
+  "item.kiranzip.photograph.blank": "Unexposed",
+  "item.kiranzip.photograph.developing": "Still developing",
+  "hud.kiranzip.dial.focus": "FOCUS",
+  "hud.kiranzip.dial.aperture": "APERTURE",
+  "hud.kiranzip.dial.focal_length": "LENS",
+  "hud.kiranzip.dial.iso": "ISO",
+  "hud.kiranzip.viewfinder.hint": "Scroll adjust · V dial · G focus · LMB shoot",
+  "key.categories.kiranzip.camera": "Camera",
+  "key.kiranzip.toggle_viewfinder": "Toggle viewfinder",
+  "key.kiranzip.cycle_dial": "Switch dial",
+  "key.kiranzip.adjust_up": "Turn dial up",
+  "key.kiranzip.adjust_down": "Turn dial down",
+  "key.kiranzip.autofocus": "Autofocus",
+  "subtitles.kiranzip.camera_shutter": "Camera shutter clicks",
+  "subtitles.kiranzip.camera_eject": "Photograph prints",
+  "subtitles.kiranzip.camera_dial": "Camera dial clicks"
+}

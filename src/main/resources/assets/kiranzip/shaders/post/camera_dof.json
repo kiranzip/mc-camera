@@ -1,0 +1,35 @@
+{
+  "targets": [
+    "dof_horizontal",
+    "dof_vertical"
+  ],
+  "passes": [
+    {
+      "name": "camera_dof_h",
+      "intarget": "minecraft:main",
+      "outtarget": "dof_horizontal",
+      "auxtargets": [
+        {
+          "name": "DepthSampler",
+          "id": "minecraft:main:depth"
+        }
+      ]
+    },
+    {
+      "name": "camera_dof_v",
+      "intarget": "dof_horizontal",
+      "outtarget": "dof_vertical",
+      "auxtargets": [
+        {
+          "name": "DepthSampler",
+          "id": "minecraft:main:depth"
+        }
+      ]
+    },
+    {
+      "name": "camera_dof_blit",
+      "intarget": "dof_vertical",
+      "outtarget": "minecraft:main"
+    }
+  ]
+}

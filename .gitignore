@@ -1,0 +1,24 @@
+# Gradle
+build/
+.gradle/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LN
+._*
+
+# Run outputs
+run/
+logs/
+
+# Misc
+*.log
+*.tmp
